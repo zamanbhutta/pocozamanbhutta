@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Header 1 The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.”
+## Header 2 We’ve brought Reader to watchOS 5 where it automatically activates when following links to text-heavy web pages. It’s important to ensure that Reader draws out the key parts of your web page by using semantic markup to reinforce the meaning and purpose of elements in the document. Let’s walk through an example. First, we indicate which parts of the page are the most important by wrapping it in an article tag.”
 ### Header 3
 
 - Bulleted
